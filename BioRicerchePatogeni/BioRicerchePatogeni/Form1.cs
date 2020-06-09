@@ -29,7 +29,7 @@ namespace BioRicerchePatogeni
         string lastIdPi;
         int lastIdPa;
 
-
+        int change;
 
         public Form1()
         {
