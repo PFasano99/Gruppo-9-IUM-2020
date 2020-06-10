@@ -109,5 +109,14 @@
   <ItemGroup>
     <None Include="bin\Debug\WhatsApp Image 2018-07-31 at 18.08.57.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question %281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

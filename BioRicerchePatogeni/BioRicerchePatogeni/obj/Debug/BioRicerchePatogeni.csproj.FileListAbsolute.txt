@@ -21,3 +21,4 @@ C:\Users\super\Google Drive\ium project\Patogeni\BioRicerchePatogeni\BioRicerche
 C:\Users\super\Google Drive\ium project\Patogeni\BioRicerchePatogeni\BioRicerchePatogeni\obj\Debug\BioRicerchePatogeni.exe
 C:\Users\super\Google Drive\ium project\Patogeni\BioRicerchePatogeni\BioRicerchePatogeni\obj\Debug\BioRicerchePatogeni.pdb
 C:\Users\super\Google Drive\ium project\Patogeni\BioRicerchePatogeni\BioRicerchePatogeni\obj\Debug\BioRicerchePatogeni.Form4.resources
+C:\Users\super\Google Drive\ium project\Patogeni\BioRicerchePatogeni\BioRicerchePatogeni\obj\Debug\BioRicerchePatogeni.csproj.CoreCompileInputs.cache
